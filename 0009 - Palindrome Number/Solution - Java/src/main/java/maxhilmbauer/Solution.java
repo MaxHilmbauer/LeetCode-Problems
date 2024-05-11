@@ -1,4 +1,4 @@
-package maxhilmbauer.sew;
+package maxhilmbauer;
 
 public class Solution {
 
